@@ -33,3 +33,5 @@
 
 # custome
 .vscode
+
+*/__pycache__
